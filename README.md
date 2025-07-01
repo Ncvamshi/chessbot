@@ -15,13 +15,10 @@ An AI-powered chess bot built with Minimax and Alpha-Beta pruning. This project 
 ### 🖼️ Game Interface
 ![Game Interface](screenshots/screen1.png)
 
-### 🧠 Bot Thinking
-![Bot Thinking](screenshots/screen2.png)
+![Bot](screenshots/screen2.png)
 
-### 📊 Post-Match Analysis
-![Post-Match Analysis](screenshots/screen3.png)
+![Match](screenshots/screen3.png)
 
-### 🎯 Difficulty Selection
 ![Difficulty Selection](screenshots/screen4.png)
 
 > Place your screenshot image files inside a folder called `screenshots/` in your repo.
